@@ -1,7 +1,7 @@
 
 # Cancer Test Results
 
-We will learn tp apply the **Bays Rule** in this notebook. 
+We will learn to apply the **Bays Rule** in this project. 
 
 In this project, we will first find the following probabilities from the data given(prior probability): 
 - Patients with cancer
